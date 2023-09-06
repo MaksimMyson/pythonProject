@@ -1,3 +1,5 @@
-print('To be')
-print('or note')
-print('to be')
+print("\"Life is what happenes")
+print("when")
+print("you're busy making other plans\"")
+print("John Lennon")
+
